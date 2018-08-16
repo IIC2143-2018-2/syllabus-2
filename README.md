@@ -40,7 +40,7 @@ Jerónimo Salazar     | [@jerosalazar]   | [jcsalazar@uc.cl]
 Joaquín Tagle        | [@jtagle2]       | [jtagle2@uc.cl]
 Jaime Yañez          | [@JaimePata]     | [jsyanez@uc.cl]
 
-[@jnavon]: https://github.com/jnavon
+[@yadran]: https://github.com/yadran
 [@ifcarrera]: https://github.com/ifcarrera
 [@vacodoceo]: https://github.com/vacodoceo
 [@criscv94]: https://github.com/criscv94
@@ -51,7 +51,7 @@ Jaime Yañez          | [@JaimePata]     | [jsyanez@uc.cl]
 [@jtagle2]: https://github.com/jtagle2
 [@JaimePata]: https://github.com/JaimePata
 
-[jnavon@uc.cl]: mailto:jnavon@uc.cl
+[yadran@ing.puc.cl]: mailto:yadran@ing.puc.cl
 [ifcarrera@uc.cl]: mailto:ifcarrera@uc.cl
 [vacodoceo@uc.cl]: mailto:vacodoceo@uc.cl
 [cacortes1@uc.cl]: mailto:cacortes1@uc.cl
