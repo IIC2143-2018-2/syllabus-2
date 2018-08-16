@@ -30,22 +30,37 @@ Yadran Eterovic| 2       | [@yadran]   | [yadran@ing.puc.cl]
 
 Nombre               | GitHub           | Email
 -------------------- | ---------------- | ----------------
+Isaac Carrera        | [@ifcarrera]     | [ifcarrera@uc.cl]
 Verner Codoceo       | [@vacodoceo]     | [vacodoceo@uc.cl]
+Cristián Cortés      | [@criscv94]      | [cacortes1@uc.cl]
 Benjamín Earle       | [@MrEarle]       | [biearle@uc.cl]
+Catalina Herrera     | [@cataherrera]   | [cfherrera@uc.cl]
 Harold Müller        | [@haroldmuller]  | [hlmuller@uc.cl]
 Jerónimo Salazar     | [@jerosalazar]   | [jcsalazar@uc.cl]
+Joaquín Tagle        | [@jtagle2]       | [jtagle2@uc.cl]
+Jaime Yañez          | [@JaimePata]     | [jsyanez@uc.cl]
 
-[@yadran]:      https://github.com/yadran
-[@vacodoceo]:     https://github.com/vacodoceo
-[@MrEarle]:    https://github.com/MrEarle
+[@jnavon]: https://github.com/jnavon
+[@ifcarrera]: https://github.com/ifcarrera
+[@vacodoceo]: https://github.com/vacodoceo
+[@criscv94]: https://github.com/criscv94
+[@MrEarle]: https://github.com/MrEarle
+[@cataherrera]: https://github.com/cataherrera
 [@haroldmuller]: https://github.com/haroldmuller
-[@jerosalazar]:         https://github.com/jerosalazar
+[@jerosalazar]: https://github.com/jerosalazar
+[@jtagle2]: https://github.com/jtagle2
+[@JaimePata]: https://github.com/JaimePata
 
-[yadran@ing.puc.cl]: mailto:yadran@ing.puc.cl
+[jnavon@uc.cl]: mailto:jnavon@uc.cl
+[ifcarrera@uc.cl]: mailto:ifcarrera@uc.cl
 [vacodoceo@uc.cl]: mailto:vacodoceo@uc.cl
+[cacortes1@uc.cl]: mailto:cacortes1@uc.cl
 [biearle@uc.cl]: mailto:biearle@uc.cl
+[cfherrera@uc.cl]: mailto:cfherrera@uc.cl
 [hlmuller@uc.cl]: mailto:hlmuller@uc.cl
 [jcsalazar@uc.cl]: mailto:jcsalazar@uc.cl
+[jtagle2@uc.cl]: mailto:jtagle2@uc.cl
+[jsyanez@uc.cl]: mailto:jsyanez@uc.cl
 
 ## Objetivos
 Al finalizar el curso, el estudiante estará capacitado para:
